@@ -1,0 +1,10 @@
+
+nav a {
+    margin-right: 20px;
+}
+.container{
+    text-align: center;
+}
+nav a.active{
+    text-decoration: underline;
+}
